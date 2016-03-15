@@ -23,6 +23,7 @@
     "express": "^4.13.4",
     "jsforce": "^1.6.0",
     "locus": "^1.2.0",
+    "mailparser": "^0.5.3",
     "moment": "^2.12.0"
   }
 }
